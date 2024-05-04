@@ -1,4 +1,4 @@
-# Build TODO App with Redux and React JS
+
 # React- Redux To-Do List
 
 This is a simple To-Do List web application built using React. It allows users to add tasks, mark them as complete, and delete them.
@@ -16,6 +16,8 @@ This is a simple To-Do List web application built using React. It allows users t
 - HTML/CSS: For structuring and styling the application.
 - JavaScript: For the logic and interactivity of the application.
 
+# Application Todo Demo link[Todo](https://66367a4cde349122cfd87cd8--zingy-otter-93268b.netlify.app/).
+
 ## Usage
 
 1. Clone the repository:
@@ -25,7 +27,7 @@ git clone https://github.com/RiteshTiwari554/react-todo-list.git
 ```
 2.Navigate into the project directory:
 ```bash
-cd react-todo-list
+cd react-Todo
 ```
 3.Install dependencies:
 ```bash
@@ -35,7 +37,12 @@ cpm install
 ```bash
 npm install
 ```
-5.build the application
+5.Run the application:
+```bash
+npm start
+```
+6.build the application
 ```bash
 npm run build
 ```
+7.Open your browser and go to http://localhost:3000 to view the application.
